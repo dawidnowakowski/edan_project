@@ -22,11 +22,11 @@ python -m venv .venv
 ```
 pip install -r requirements.txt
 ```
-4. **Zapis aktualnych bibliotek do pliku**
-```
-pip freeze > requirements.txt
-```
-5. **Wyłączenie wirtualnego środowiska**
+4. **Wyłączenie wirtualnego środowiska**
 ```
 deactivate
 ```
+<!--**Zapis aktualnych bibliotek do pliku**
+```
+pip freeze > requirements.txt
+```-->
