@@ -7,6 +7,8 @@
 |Dawid|Nowakowski|151868|
 |Hubert|Sulżycki|151850|
 
+## Prerequisites
+- Python 3.10
 
 ## Repository Setup
 
